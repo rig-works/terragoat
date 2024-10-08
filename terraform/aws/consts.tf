@@ -39,7 +39,7 @@ variable "dbname" {
 variable "password" {
   type        = "string"
   description = "Database password"
-  default     = "Aa1234321Bb"
+  default     = "A5a125343f21Bfb"       ####
 }
 
 variable "neptune-dbname" {
